@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://barasel200-bit.github.io/pavoai-field-notes/sitemap.xml
